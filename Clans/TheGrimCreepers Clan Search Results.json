@@ -1,0 +1,71 @@
+{
+    "items": [
+        {
+            "badgeUrls": {
+                "large": "https://api-assets.clashofclans.com/badges/512/Cs1ggbtvII843lJ-UcVfl3_Hgl3mzi4X8PC6Xfv2154.png",
+                "medium": "https://api-assets.clashofclans.com/badges/200/Cs1ggbtvII843lJ-UcVfl3_Hgl3mzi4X8PC6Xfv2154.png",
+                "small": "https://api-assets.clashofclans.com/badges/70/Cs1ggbtvII843lJ-UcVfl3_Hgl3mzi4X8PC6Xfv2154.png"
+            },
+            "chatLanguage": {
+                "id": 75000000,
+                "languageCode": "EN",
+                "name": "English"
+            },
+            "clanLevel": 4,
+            "clanPoints": 10072,
+            "clanVersusPoints": 12080,
+            "isWarLogPublic": true,
+            "labels": [
+                {
+                    "iconUrls": {
+                        "medium": "https://api-assets.clashofclans.com/labels/128/RauzS-02tv4vWm1edZ-q3gPQGWKGANLZ-85HCw_NVP0.png",
+                        "small": "https://api-assets.clashofclans.com/labels/64/RauzS-02tv4vWm1edZ-q3gPQGWKGANLZ-85HCw_NVP0.png"
+                    },
+                    "id": 56000009,
+                    "name": "Donations"
+                },
+                {
+                    "iconUrls": {
+                        "medium": "https://api-assets.clashofclans.com/labels/128/hM7SHnN0x7syFa-s6fE7LzeO5yWG2sfFpZUHuzgMwQg.png",
+                        "small": "https://api-assets.clashofclans.com/labels/64/hM7SHnN0x7syFa-s6fE7LzeO5yWG2sfFpZUHuzgMwQg.png"
+                    },
+                    "id": 56000010,
+                    "name": "Friendly"
+                },
+                {
+                    "iconUrls": {
+                        "medium": "https://api-assets.clashofclans.com/labels/128/3oOuYkPdkjWVrBUITgByz9Ur0nmJ4GsERXc-1NUrjKg.png",
+                        "small": "https://api-assets.clashofclans.com/labels/64/3oOuYkPdkjWVrBUITgByz9Ur0nmJ4GsERXc-1NUrjKg.png"
+                    },
+                    "id": 56000015,
+                    "name": "Newbie Friendly"
+                }
+            ],
+            "location": {
+                "countryCode": "ZA",
+                "id": 32000215,
+                "isCountry": true,
+                "name": "South Africa"
+            },
+            "members": 17,
+            "name": "TheGrimCreepers",
+            "requiredTownhallLevel": 2,
+            "requiredTrophies": 600,
+            "requiredVersusTrophies": 0,
+            "tag": "#28JVY89LJ",
+            "type": "open",
+            "warFrequency": "always",
+            "warLeague": {
+                "id": 48000003,
+                "name": "Bronze League I"
+            },
+            "warLosses": 37,
+            "warTies": 0,
+            "warWinStreak": 0,
+            "warWins": 17
+        }
+    ],
+    "paging": {
+        "cursors": {}
+    }
+}
